@@ -39,7 +39,7 @@
   * Fixing and debugging can be a nightmare (fixing something in one place can lead to something else breaking that seems completely unrelated).
 
 #### [[⬆]](#toc) <a name='concurrency'>Concurrency:</a>
-* What is [*deadlock*](https://en.wikipedia.org/wiki/Deadlock), [*livelock*](https://en.wikipedia.org/wiki/Deadlock#Livelock)? (Deadlock is a situation in which two or more competing actions are each waiting for the other to finish, and thus neither ever does. A livelock is similar to a deadlock, except that the states of the processes involved in the livelock constantly change with regard to one another, none progressing.)
+* What is [*deadlock*](https://en.wikipedia.org/wiki/Deadlock)? (Deadlock is a situation in which two or more competing actions are each waiting for the other to finish, and thus neither ever does.)
 * [*Deadlock avoidance*](https://www.geeksforgeeks.org/deadlock-prevention). (prevention, detection, avoidance (Mutex hierarchy), and recovery)
 * What is [*race condition*](https://en.wikipedia.org/wiki/Race_condition)? (Behavior of software system where the output is dependent on the sequence or timing of other uncontrollable events)
 * What is a [*thread-safe*](https://en.wikipedia.org/wiki/Thread_safety) function? (Can be safely invoked by multiple threads at the same time)
