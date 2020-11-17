@@ -60,7 +60,6 @@
 * [*Semantic versioning*](http://semver.org)
 
 #### [[⬆]](#toc) <a name='web'>WEB:</a>
-* What is HTTP Strict Transport Security ([*HSTS*](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security))? (Prevents Man in the Middle attacks)
 * Browser-server communication methods: WebSocket
 * [*Character encoding*](https://en.wikipedia.org/wiki/Character_encoding)
 * What is session and persistent cookies, sessionStorage and [localStorage](https://en.wikipedia.org/wiki/Web_storage#Local_and_session_storage)?
